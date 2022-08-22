@@ -8,7 +8,6 @@ const Remote2 = React.lazy(() => import('remote2/Module'));
 const Home = () => {
   return (
     <div>
-      <Remote1 />
       <Counter />
       <Remote2 />
       <Button title="Adding one to counter" />

@@ -4,6 +4,7 @@
   "projects": {
     "host": "apps/host",
     "remote1": "apps/remote1",
-    "remote2": "apps/remote2"
+    "remote2": "apps/remote2",
+    "ui": "libs/ui"
   }
 }
