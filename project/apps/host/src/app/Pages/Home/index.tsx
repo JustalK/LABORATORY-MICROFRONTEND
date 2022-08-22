@@ -11,7 +11,7 @@ const Home = () => {
       <Remote1 />
       <Counter />
       <Remote2 />
-      <Button />
+      <Button title="Adding one to counter" />
     </div>
   );
 };
